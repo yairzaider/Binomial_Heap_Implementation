@@ -1,8 +1,10 @@
 **Binomial Heap Implementation**
  Course: Data Structures
+ 
  Language: Java 21
 
-Project Overview
+Project Overview :
+
 This project implements a Binomial Heap, a priority queue supporting efficient merge operations. The heap is implemented in Java 21, following theoretical principles studied in the course.
 
 Features & Operations:
